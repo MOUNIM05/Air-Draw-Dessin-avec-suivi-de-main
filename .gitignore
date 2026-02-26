@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+*.dylib
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / project files
+.idea/
+*.iml
+.vscode/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Outputs
+drawings/
+
+# Logs / coverage
+*.log
+.coverage
+coverage.xml
